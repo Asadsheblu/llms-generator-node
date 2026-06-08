@@ -7,6 +7,25 @@
   "bin": {
     "llms-gen": "./index.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Asadsheblu/llms-generator-node.git"
+  },
+  "keywords": [
+    "llms",
+    "llms.txt",
+    "markdown",
+    "scraper",
+    "ai",
+    "context-generator",
+    "cli"
+  ],
+  "author": "Md. Asaduzzaman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Asadsheblu/llms-generator-node/issues"
+  },
+  "homepage": "https://github.com/Asadsheblu/llms-generator-node#readme",
   "dependencies": {
     "axios": "^1.6.0",
     "cheerio": "^1.0.0-rc.12",
