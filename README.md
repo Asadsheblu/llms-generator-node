@@ -44,7 +44,7 @@ npm install -g llms-generator-cli
 ### Option 3: Clone and use locally
 
 ```bash
-git clone https://github.com/your-username/llms-generator-cli.git
+git clone https://github.com/Asadsheblu/llms-generator-node.git
 cd llms-generator-cli
 npm install
 npm link
